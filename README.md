@@ -5,5 +5,5 @@ This repo 🔥 contains all the list of Hacking Book I came across while learn H
 ## Table of Contents
 
 - [Basics](/Basics)
-- [Bug Bounty](/Bug%20Bounty)
-- [Sql Injection](/Sql%20Injection)
+- [Bug Bounty](/BugBounty)
+- [Sql Injection](/SqlInjection)
